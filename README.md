@@ -6,3 +6,4 @@
 | Type 	| Description                    	| Fixed 	|
 |------	|--------------------------------	|-------	|
 | Bug  	| App crash when screen rotation 	| ❌     |
+| Bug  	| Some images are not loading    	| ❌     |
