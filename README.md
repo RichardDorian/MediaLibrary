@@ -5,7 +5,7 @@
 
 ## Todo :
 
-| Type 	| Description                    	      | Fixed 	|
+| Type 	| Description                    	      | Fixed/Done 	|
 |------	|-------------------------------------- |-------	|
 | Bug  	| App crash when screen rotation 	      | ❌     |
 | Bug  	| Some images are not loading    	      | ❌     |
