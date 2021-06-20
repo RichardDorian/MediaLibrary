@@ -24,4 +24,5 @@
 | Bug  	| App crash when switching device theme | ❌     |
 | Feature | Let the user set a custom OMP File | ❌     |
 | Bug | Wrong color for Info button (Dark mode Only) | ❌     |
+| Bug | Fix media title width in Content tab | ❌     |
 
