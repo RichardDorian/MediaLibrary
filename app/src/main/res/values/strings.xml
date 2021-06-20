@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Media Library</string>
+
+    <!-- General -->
+    <string name="general_title">OMP Media Library</string>
+
+    <!-- Categories Page -->
+    <string name="default_category_name">Category name</string>
+    <string name="default_category_description">Category description</string>
+    <string name="categories">Categories</string>
+
+    <!-- Content Page -->
+    <string name="default_media_name">Media name</string>
+    <string name="default_media_description">Media description</string>
+
+    <!-- Settings Page -->
+    <string name="settings">Settings</string>
+    <string name="load_file">Load OMP file</string>
+    <string name="actual_loaded_file">Loaded file : Private.omp</string>
+    <string name="settings_description">Some very long words to make a long sentence just to describe what the user is doing with the app.</string>
+    <string name="save_changes">Save changes</string>
+
+    <!-- Media Popup -->
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+
+    <!-- Bottom Navigation Bar -->
+    <string name="content">Content</string>
+
+    <string name="vlc_not_installed">You must install VLC first</string>
+</resources>

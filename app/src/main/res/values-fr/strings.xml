@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Media Library</string>
+    <string name="general_title">OMP Media Library</string>
+    <string name="default_category_name">Nom de la catégorie</string>
+    <string name="categories">Catégories</string>
+    <string name="default_media_name">Nom du média</string>
+    <string name="default_media_description">Description du média</string>
+    <string name="settings">Paramètres</string>
+    <string name="load_file">Charger un fichier OMP</string>
+    <string name="settings_description">Some very long words to make a long sentence just to describe what the user is doing with the app.</string>
+    <string name="save_changes">Sauvegarder les changements</string>
+    <string name="content">Contenu</string>
+    <string name="default_category_description">Description de la catégorie</string>
+    <string name="actual_loaded_file">Fichier chargé : Private.omp</string>
+    <string name="category">Catégorie</string>
+    <string name="description">Description</string>
+    <string name="vlc_not_installed">Vous devez d\'abord installer VLC</string>
+</resources>

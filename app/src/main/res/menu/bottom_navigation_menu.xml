@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/categories_page"
+        android:title="@string/categories"
+        android:icon="@drawable/ic_home" />
+    <item android:id="@+id/media_page"
+        android:title="@string/content"
+        android:icon="@drawable/ic_content" />
+    <item android:id="@+id/settings_page"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings" />
+</menu>

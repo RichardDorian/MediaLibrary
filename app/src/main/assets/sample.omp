@@ -1,0 +1,880 @@
+{
+  "name": "My converted M3U playlist",
+  "description": "Converted with stock convertor",
+  "format": {
+    "omp-version": 1,
+    "convertor": {
+      "name": "Stock Convertor",
+      "author": "RichardDorian",
+      "version": "1.0"
+    }
+  },
+  "categories": [
+    {
+      "name": "FR| FRANCE FHD HD",
+      "description": "FR| FRANCE FHD HD",
+      "coverUrl": "https://i.ibb.co/f9NwR21/placeholder.png",
+      "content": [
+        {
+          "name": "=FR= FRANCE =FR=",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43894",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/FR.png",
+          "description": "=FR= FRANCE =FR="
+        },
+        {
+          "name": "FR| TF1 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43895",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png",
+          "description": "FR| TF1 FHD"
+        },
+        {
+          "name": "FR| TF1 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43896",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png",
+          "description": "FR| TF1 HD"
+        },
+        {
+          "name": "FR| TF1 4K",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/324893",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png",
+          "description": "FR| TF1 4K"
+        },
+        {
+          "name": "FR| TF1 +1 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43898",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1.png",
+          "description": "FR| TF1 +1 FHD"
+        },
+        {
+          "name": "FR| FRANCE 2 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43899",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%202.png",
+          "description": "FR| FRANCE 2 FHD"
+        },
+        {
+          "name": "FR| FRANCE 2 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43900",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%202.png",
+          "description": "FR| FRANCE 2 HD"
+        },
+        {
+          "name": "FR| FRANCE 3 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43901",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png",
+          "description": "FR| FRANCE 3 FHD"
+        },
+        {
+          "name": "FR| FRANCE 3 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43902",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png",
+          "description": "FR| FRANCE 3 HD"
+        },
+        {
+          "name": "FR| FRANCE 3 NOA FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/124761",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png",
+          "description": "FR| FRANCE 3 NOA FHD"
+        },
+        {
+          "name": "FR| FRANCE 4 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43903",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%204.png",
+          "description": "FR| FRANCE 4 FHD"
+        },
+        {
+          "name": "FR| FRANCE 4 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43904",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%204.png",
+          "description": "FR| FRANCE 4 HD"
+        },
+        {
+          "name": "FR| FRANCE 5 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43905",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png",
+          "description": "FR| FRANCE 5 FHD"
+        },
+        {
+          "name": "FR| FRANCE 5 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43906",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%205.png",
+          "description": "FR| FRANCE 5 HD"
+        },
+        {
+          "name": "FR| M6 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43909",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/m6%20hd.png",
+          "description": "FR| M6 FHD"
+        },
+        {
+          "name": "FR| M6 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43910",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/m6%20hd.png",
+          "description": "FR| M6 HD"
+        },
+        {
+          "name": "FR| 6TER FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43911",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/6ter.png",
+          "description": "FR| 6TER FHD"
+        },
+        {
+          "name": "FR| 6TER HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43912",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/6ter.png",
+          "description": "FR| 6TER HD"
+        },
+        {
+          "name": "FR| TMC FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43913",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tmc.png",
+          "description": "FR| TMC FHD"
+        },
+        {
+          "name": "FR| TMC HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43914",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tmc.png",
+          "description": "FR| TMC HD"
+        },
+        {
+          "name": "FR| TMC +1 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43915",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tmc.png",
+          "description": "FR| TMC +1 FHD"
+        },
+        {
+          "name": "FR| TFX FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43916",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tfx.png",
+          "description": "FR| TFX FHD"
+        },
+        {
+          "name": "FR| TFX HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43917",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tfx.png",
+          "description": "FR| TFX HD"
+        },
+        {
+          "name": "FR| TF1 SERIES FILMS FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43918",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1%20series%20films.png",
+          "description": "FR| TF1 SERIES FILMS FHD"
+        },
+        {
+          "name": "FR| TF1 SERIES FILMS HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43919",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tf1%20series%20films.png",
+          "description": "FR| TF1 SERIES FILMS HD"
+        },
+        {
+          "name": "FR| TEVA FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43920",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/teva%20hd.png",
+          "description": "FR| TEVA FHD"
+        },
+        {
+          "name": "FR| TEVA HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43921",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/teva%20hd.png",
+          "description": "FR| TEVA HD"
+        },
+        {
+          "name": "FR| AB1 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/55626",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-belge/ab1.png",
+          "description": "FR| AB1 FHD"
+        },
+        {
+          "name": "FR| AB1 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/55627",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-belge/ab1.png",
+          "description": "FR| AB1 HD"
+        },
+        {
+          "name": "FR| RTL9 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43922",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/rtl%209.png",
+          "description": "FR| RTL9 FHD"
+        },
+        {
+          "name": "FR| RTL9 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43923",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/rtl%209.png",
+          "description": "FR| RTL9 HD"
+        },
+        {
+          "name": "FR| W9 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43924",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/w9hd.png",
+          "description": "FR| W9 FHD"
+        },
+        {
+          "name": "FR| W9 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43925",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/w9hd.png",
+          "description": "FR| W9 HD"
+        },
+        {
+          "name": "FR| C8 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43926",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/c8.png",
+          "description": "FR| C8 FHD"
+        },
+        {
+          "name": "FR| C8 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43927",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/c8.png",
+          "description": "FR| C8 HD"
+        },
+        {
+          "name": "FR| CSTAR FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43928",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/c%20star.png",
+          "description": "FR| CSTAR FHD"
+        },
+        {
+          "name": "FR| CSTAR HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43929",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/c%20star.png",
+          "description": "FR| CSTAR HD"
+        },
+        {
+          "name": "FR| SERIE CLUB FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43930",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/serie%20club%20hd.png",
+          "description": "FR| SERIE CLUB FHD"
+        },
+        {
+          "name": "FR| SERIE CLUB HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43931",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/serie%20club%20hd.png",
+          "description": "FR| SERIE CLUB HD"
+        },
+        {
+          "name": "FR| TV BREIZH FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43932",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tv%20breizh.png",
+          "description": "FR| TV BREIZH FHD"
+        },
+        {
+          "name": "FR| TV BREIZH HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43933",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tv%20breizh.png",
+          "description": "FR| TV BREIZH HD"
+        },
+        {
+          "name": "FR| 13EME RUE FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43934",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/13emeruehd.png",
+          "description": "FR| 13EME RUE FHD"
+        },
+        {
+          "name": "FR| 13EME RUE HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/67162",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/13emeruehd.png",
+          "description": "FR| 13EME RUE HD"
+        },
+        {
+          "name": "=FR= SERIES ET DIVERTISSEMENT =FR=",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43937",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/FR.png",
+          "description": "=FR= SERIES ET DIVERTISSEMENT =FR="
+        },
+        {
+          "name": "FR| CANAL+ SERIES FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43938",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20series.png",
+          "description": "FR| CANAL+ SERIES FHD"
+        },
+        {
+          "name": "FR| CANAL+ SERIE HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43939",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/canal%2B%20series.png",
+          "description": "FR| CANAL+ SERIE HD"
+        },
+        {
+          "name": "FR| SYFY FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43940",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/syfy%20hd.png",
+          "description": "FR| SYFY FHD"
+        },
+        {
+          "name": "FR| SYFY HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43941",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/syfy%20hd.png",
+          "description": "FR| SYFY HD"
+        },
+        {
+          "name": "FR| WARNER TV FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43942",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/warnertv.png",
+          "description": "FR| WARNER TV FHD"
+        },
+        {
+          "name": "FR| WARNER TV HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/126157",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/warnertv.png",
+          "description": "FR| WARNER TV HD"
+        },
+        {
+          "name": "FR| POLAR + FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43943",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/polar%20%2B.png",
+          "description": "FR| POLAR + FHD"
+        },
+        {
+          "name": "FR| POLAR+ HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43944",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/polar%20%2B.png",
+          "description": "FR| POLAR+ HD"
+        },
+        {
+          "name": "FR| PARIS PREMIERE FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43945",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/paris%20premiere.png",
+          "description": "FR| PARIS PREMIERE FHD"
+        },
+        {
+          "name": "FR| PARIS PREMIERE HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43946",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/paris%20premiere.png",
+          "description": "FR| PARIS PREMIERE HD"
+        },
+        {
+          "name": "FR| COMEDIE FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43947",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/comedy%20%2B.png",
+          "description": "FR| COMEDIE FHD"
+        },
+        {
+          "name": "FR| COMEDIE HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43948",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/comedy%20%2B.png",
+          "description": "FR| COMEDIE HD"
+        },
+        {
+          "name": "FR| MY COMEDY TV FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43949",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/comedy%20%2B.png",
+          "description": "FR| MY COMEDY TV FHD"
+        },
+        {
+          "name": "FR| COMEDY CENTRAL FRANCE FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43950",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/comedy%20central.png",
+          "description": "FR| COMEDY CENTRAL FRANCE FHD"
+        },
+        {
+          "name": "FR| RMC STORY FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/302061",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/rmc%20story.png",
+          "description": "FR| RMC STORY FHD"
+        },
+        {
+          "name": "FR| RMC STORY HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43951",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/rmc%20story.png",
+          "description": "FR| RMC STORY HD"
+        },
+        {
+          "name": "FR| CHERIE 25 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43952",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/cherie%2025.png",
+          "description": "FR| CHERIE 25 FHD"
+        },
+        {
+          "name": "FR| CHERIE 25 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43953",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/cherie%2025.png",
+          "description": "FR| CHERIE 25 HD"
+        },
+        {
+          "name": "FR| NRJ 12 FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43954",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/nrj%2012%20hd.png",
+          "description": "FR| NRJ 12 FHD"
+        },
+        {
+          "name": "FR| NRJ12 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43955",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/nrj%2012%20hd.png",
+          "description": "FR| NRJ12 HD"
+        },
+        {
+          "name": "FR| EURO CHANEL FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/306541",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/eurochannel.png",
+          "description": "FR| EURO CHANEL FHD"
+        },
+        {
+          "name": "FR| Poker Channel",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/54007",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/pokerchannel.png",
+          "description": "FR| Poker Channel"
+        },
+        {
+          "name": "FR| LUCKY JACK HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/189953",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/lucky%20jack%20tv.png",
+          "description": "FR| LUCKY JACK HD"
+        },
+        {
+          "name": "=FR= STYLE DE VIE =FR=",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43957",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/FR.png",
+          "description": "=FR= STYLE DE VIE =FR="
+        },
+        {
+          "name": "FR| GOURMAND TV FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/300941",
+          "coverUrl": "",
+          "description": "FR| GOURMAND TV FHD"
+        },
+        {
+          "name": "FR| GOURMAND TV HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/301058",
+          "coverUrl": "",
+          "description": "FR| GOURMAND TV HD"
+        },
+        {
+          "name": "FR| TOP SANTE TV FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/303417",
+          "coverUrl": "",
+          "description": "FR| TOP SANTE TV FHD"
+        },
+        {
+          "name": "FR| TOP SANTE TV HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/303418",
+          "coverUrl": "",
+          "description": "FR| TOP SANTE TV HD"
+        },
+        {
+          "name": "FR| CULTUREBOX FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/287970",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/culturebox.png",
+          "description": "FR| CULTUREBOX FHD"
+        },
+        {
+          "name": "FR| VICELAND FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43961",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/viceland.png",
+          "description": "FR| VICELAND FHD"
+        },
+        {
+          "name": "FR| BET FHD FRANCE",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43965",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/bet%20international.png",
+          "description": "FR| BET FHD FRANCE"
+        },
+        {
+          "name": "FR| BET HD FRANCE",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43966",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/bet%20international.png",
+          "description": "FR| BET HD FRANCE"
+        },
+        {
+          "name": "FR| E!ENTERTAINMENT FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43962",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/e%20entertainmente%20hd.png",
+          "description": "FR| E!ENTERTAINMENT FHD"
+        },
+        {
+          "name": "FR| E! ENTERTAINEMENT HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43963",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/e%20entertainmente%20hd.png",
+          "description": "FR| E! ENTERTAINEMENT HD"
+        },
+        {
+          "name": "FR| NON STOP PEOPLE FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43964",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/non%20stop%20people%20hd.png",
+          "description": "FR| NON STOP PEOPLE FHD"
+        },
+        {
+          "name": "FR| DEMAIN ! IDF HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/164956",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/demaintv.png",
+          "description": "FR| DEMAIN ! IDF HD"
+        },
+        {
+          "name": "FR| IDF 1 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/164955",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/idf.png",
+          "description": "FR| IDF 1 HD"
+        },
+        {
+          "name": "FR| 01 NET TV",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/94129",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/01.png",
+          "description": "FR| 01 NET TV"
+        },
+        {
+          "name": "FR| TV Vendée",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/176476",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/vendee.png",
+          "description": "FR| TV Vendée"
+        },
+        {
+          "name": "FR| Vosges TV",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/176701",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/vosgestv.png",
+          "description": "FR| Vosges TV"
+        },
+        {
+          "name": "FR| TV8 Mont Blanc",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/176706",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/tv8.png",
+          "description": "FR| TV8 Mont Blanc"
+        },
+        {
+          "name": "FR| NOLLYWOOD FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43956",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/nollywood%20movies.png",
+          "description": "FR| NOLLYWOOD FHD"
+        },
+        {
+          "name": "FR| A+ HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/221275",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/aplustv.png",
+          "description": "FR| A+ HD"
+        },
+        {
+          "name": "FR| OLYMPIA HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/323418",
+          "coverUrl": "",
+          "description": "FR| OLYMPIA HD"
+        },
+        {
+          "name": "FR| MUSEUM CHANNEL FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43967",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/museum.png",
+          "description": "FR| MUSEUM CHANNEL FHD"
+        },
+        {
+          "name": "FR| D5TV FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/223688",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/d5.png",
+          "description": "FR| D5TV FHD"
+        },
+        {
+          "name": "FR| ARTE FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43935",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/arte%20hd.png",
+          "description": "FR| ARTE FHD"
+        },
+        {
+          "name": "FR| ARTE HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43936",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/arte%20hd.png",
+          "description": "FR| ARTE HD"
+        },
+        {
+          "name": "|FR| FRANCE 3 REGION |FR|",
+          "url": "http://185.132.179.9:25461/balise/Musique%20Douce.mkv",
+          "coverUrl": "",
+          "description": "|FR| FRANCE 3 REGION |FR|"
+        },
+        {
+          "name": "FR|  FRANCE 3 HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133879",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png",
+          "description": "FR|  FRANCE 3 HD"
+        },
+        {
+          "name": "FR|  FRANCE 3 NOA FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133878",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/france%203.png",
+          "description": "FR|  FRANCE 3 NOA FHD"
+        },
+        {
+          "name": "FR| FRANCE 3 Auvergne (Clermont-Ferrand)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133867",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3clermontferrand.png",
+          "description": "FR| FRANCE 3 Auvergne (Clermont-Ferrand)"
+        },
+        {
+          "name": "FR| FRANCE 3 Auvergne (Grenoble)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133869",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3grenoble.png",
+          "description": "FR| FRANCE 3 Auvergne (Grenoble)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Aquitaine (Bordeaux)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133864",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3bordeaux.png",
+          "description": "FR|  FRANCE 3 Aquitaine (Bordeaux)"
+        },
+        {
+          "name": "FR| FRANCE 3 Aquitaine (Limoges)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133870",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3limoges.png",
+          "description": "FR| FRANCE 3 Aquitaine (Limoges)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Bourgogne (Besançon)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133863",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3besancon.png",
+          "description": "FR|  FRANCE 3 Bourgogne (Besançon)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Bourgogne (Dijon)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133868",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3dijon.png",
+          "description": "FR|  FRANCE 3 Bourgogne (Dijon)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Normandie (Rouen)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133877",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3rouen.png",
+          "description": "FR|  FRANCE 3 Normandie (Rouen)"
+        },
+        {
+          "name": "FR| FRANCE 3 Normandie (Caen)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133866",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3caen.png",
+          "description": "FR| FRANCE 3 Normandie (Caen)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Occitanie (Montpellier)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133876",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3montpellier.png",
+          "description": "FR|  FRANCE 3 Occitanie (Montpellier)"
+        },
+        {
+          "name": "FR| FRANCE 3 Occitanie (Toulouse)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133861",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3toulouse.png",
+          "description": "FR| FRANCE 3 Occitanie (Toulouse)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Normandie (Rouen)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133875",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3rouen.png",
+          "description": "FR|  FRANCE 3 Normandie (Rouen)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Île-de-france (Paris)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133874",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3paris.png",
+          "description": "FR|  FRANCE 3 Île-de-france (Paris)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Hauts-de-France (Amiens)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133860",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3amiens.png",
+          "description": "FR|  FRANCE 3 Hauts-de-France (Amiens)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Hauts-de-France (Lille)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133855",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3lille.png",
+          "description": "FR|  FRANCE 3 Hauts-de-France (Lille)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Alpes-Côte d'azur (Marseille)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133865",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3marseille.png",
+          "description": "FR|  FRANCE 3 Alpes-Côte d'azur (Marseille)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Grand Est (Nancy)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133857",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3nancy.png",
+          "description": "FR|  FRANCE 3 Grand Est (Nancy)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Alpes-Côte d'azur (Nice)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133856",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3nice.png",
+          "description": "FR|  FRANCE 3 Alpes-Côte d'azur (Nice)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Val de loire (Orléans)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133873",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3orleans.png",
+          "description": "FR|  FRANCE 3 Val de loire (Orléans)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Aquitaine (Poitiers)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133862",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3poitiers.png",
+          "description": "FR|  FRANCE 3 Aquitaine (Poitiers)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Grand Est (Reims)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133858",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3reims.png",
+          "description": "FR|  FRANCE 3 Grand Est (Reims)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Grand Est (Strasbourg)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133859",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3strasbourg.png",
+          "description": "FR|  FRANCE 3 Grand Est (Strasbourg)"
+        },
+        {
+          "name": "FR| FRANCE 3 Auvergne (Lyon)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133871",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3lyon.png",
+          "description": "FR| FRANCE 3 Auvergne (Lyon)"
+        },
+        {
+          "name": "FR|  FRANCE 3 Viastella (Corse)",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/133854",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/fr3/france3viastella.png",
+          "description": "FR|  FRANCE 3 Viastella (Corse)"
+        },
+        {
+          "name": "FR| NOVELAS TV",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/44083",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/novelas%20tv.png",
+          "description": "FR| NOVELAS TV"
+        },
+        {
+          "name": "FR| SUNDANCE TV FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/43970",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-france/sundance%20tv%20hd.png",
+          "description": "FR| SUNDANCE TV FHD"
+        }
+      ]
+    },
+    {
+      "name": "FR| DISNEY + CHANEL",
+      "description": "FR| DISNEY + CHANEL",
+      "coverUrl": "https://i.ibb.co/f9NwR21/placeholder.png",
+      "content": [
+        {
+          "name": "DISNEY +| DISNEY + FHD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/125997",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| DISNEY + FHD"
+        },
+        {
+          "name": "DISNEY +| DISNEY + HD",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/125998",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| DISNEY + HD"
+        },
+        {
+          "name": "DISNEY +| CINEMA KIDS",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/199611",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| CINEMA KIDS"
+        },
+        {
+          "name": "DISNEY +| Cinema",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/198186",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Cinema"
+        },
+        {
+          "name": "DISNEY +| MARVEL",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/2892",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| MARVEL"
+        },
+        {
+          "name": "DISNEY +| SERIES",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/126020",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| SERIES"
+        },
+        {
+          "name": "DISNEY +| Star Wars",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/198167",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Star Wars"
+        },
+        {
+          "name": "DISNEY +| Art Attack",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146330",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Art Attack"
+        },
+        {
+          "name": "DISNEY +| Baby Boss : Les affaires reprennent",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146822",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Baby Boss : Les affaires reprennent"
+        },
+        {
+          "name": "DISNEY +| Cars toons",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146320",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Cars toons"
+        },
+        {
+          "name": "DISNEY +| Chat Potté",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146168",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Chat Potté"
+        },
+        {
+          "name": "DISNEY +| Dragons Par dela les rives",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/174029",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Dragons Par dela les rives"
+        },
+        {
+          "name": "DISNEY +| Jake et les pirates du pays imaginaire",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146336",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Jake et les pirates du pays imaginaire"
+        },
+        {
+          "name": "DISNEY +| La Bande à Picsou",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/148516",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| La Bande à Picsou"
+        },
+        {
+          "name": "DISNEY +| La Boutique de Minnie",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146337",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| La Boutique de Minnie"
+        },
+        {
+          "name": "DISNEY +| La Garde du Roi Lion",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146176",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| La Garde du Roi Lion"
+        },
+        {
+          "name": "DISNEY +| La Maison De Mickey",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146806",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| La Maison De Mickey"
+        },
+        {
+          "name": "DISNEY +| Lilo & Stitch",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146171",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Lilo & Stitch"
+        },
+        {
+          "name": "DISNEY +| Peter Pan",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/217784",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Peter Pan"
+        },
+        {
+          "name": "DISNEY +| Spirit Au galop en toute liberté",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/146184",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| Spirit Au galop en toute liberté"
+        },
+        {
+          "name": "DISNEY +| The Legend Of Tarzan",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/217785",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| The Legend Of Tarzan"
+        },
+        {
+          "name": "DISNEY +| NATURE",
+          "url": "http://foxx-tv.com:9600/7dD0@Zw@s163z2rD/@pdmWXWb@x8u29sC/210374",
+          "coverUrl": "http://foxx.ddns.me/JAQUETTE/PICON-LOGO/CREATE-CHANEL/disney2.png",
+          "description": "DISNEY +| NATURE"
+        }
+      ]
+    }
+  ]
+}
